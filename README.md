@@ -3,7 +3,7 @@
    2ª versão do meu currículo, codificado em HTML e CSS <br>
    2nd version of my cv, coded on HTML and CSS languages <br>
    
- ## [Link](http://cvexample.atwebpages.com/)
+ [Clique para ver ! // Click to see it !](http://cvexample.atwebpages.com/)
    
 
 
