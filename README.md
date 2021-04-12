@@ -4,9 +4,3 @@
    2nd version of my cv, coded on HTML and CSS languages <br>
    
  [Clique para ver ! // Click to see it !](http://cvexample.atwebpages.com/)
-   
-
-
-
-
-
