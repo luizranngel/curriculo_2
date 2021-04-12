@@ -1,0 +1,127 @@
+body{
+    background-color: #f3f3f3;
+}
+.layout{
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.125), -1px -1px 2px rgba(0,0,0,0.125);
+    width: 500px;
+    height: auto;
+}
+
+.layout_name h1{
+    margin-top: 3%;
+    font-size: 21px;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+}
+.layout_name h2{
+    margin-top: -2.5%;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+}
+.img_perfil{
+    margin-top: 3%;
+}
+.img_perfil img{
+    margin-left: 187.5px;
+    width: 25%;
+    margin-top: 5%;  
+}
+
+.skills{
+    margin-top: 10%;
+    font-size: 15px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: gray;
+
+}
+
+.skills ul{
+    display: flex;
+    flex-wrap: wrap;
+    width: 94%;
+    justify-content: space-between;
+}
+.skills ul li{
+    list-style: none;
+    padding: 0 5px;
+    margin-bottom: 25px;
+    width: 33.32%;
+    height: 85px;
+}
+.skills ul li .skill_item{
+    background: #f2f4f5;
+    width: 100%;
+    height: 120%;
+    border-radius: 3px;
+    text-align: center;
+    padding: 15px 10px;
+}
+.skills ul li .skill_item .text_office{
+    padding-top: 10px;
+}
+.skills ul li .skill_item .text_os{
+    padding-top: 10px;
+}
+.skills ul li .skill_item .text_html{
+    padding-top: 10px;
+}
+.skills ul li .skill_item .text_c{
+    padding-top: 10px;
+}
+.skills ul li .skill_item .text_php{
+    padding-top: 30px;
+}
+.skills ul li .skill_item .text_sql{
+    padding-top: 10px;
+}
+.title{
+    margin-left: 7%;
+}
+.active{
+    color: rgba(0, 128, 202, 0.726);
+    font-family: 'Fredoka One', cursive;
+    font-size: 18px;
+}
+.dropdown button{
+    width: 140px;
+    margin-left: 180px;
+    border-radius: 3px;
+    background-color:#c9356e;
+    border-color: #c9356e;
+    font-size: 13px;
+}
+.dropdown button:hover{
+    background-color: #8c1749;
+}
+.dropdown ul li{
+    text-align: center;
+    text-decoration: none;
+}
+.academic_experience{
+    margin-top: 2%;
+}
+.languages{
+    margin-top: 2%;
+}
+.curses{
+    margin-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 1%;
+}
+.items h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    margin-left: 7%;
+}
+.items .data{
+    font-family: 'Fredoka One', cursive;
+    font-size: 16px;
+    margin-left: 7%;
+    color: rgba(0, 20, 202, 0.829);
+}
